@@ -3,14 +3,33 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Hi there, I'm Erald Torra 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+- 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m currently learning [Topic or Language You're Learning]
+- 🤔 I’m looking for help with [Topic or Project You Need Help With]
+- 💬 Ask me about [Topics You're Comfortable Discussing]
+- 📫 How to reach me: [Your Email or Other Contact Method]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Fun Fact About You]
+
+## Skills and Experience
+* ⚛️ [Language or Framework You Have Experience With]
+* 📱 [Another Language or Framework You Have Experience With]
+* 💻 [And Another Language or Framework You Have Experience With]
+
+## Examples of Work
+[Include images or links of your work]
+
+## 📬 Get in Touch
+- GitHub: [github link][github]
+- LinkedIn: [linkedin link][linkedin]
+- Site: [site link][site]
+
+[github]: https://github.com/[YourGitHubUsername]
+[linkedin]: https://www.linkedin.com/in/[YourLinkedInUsername]
+[site]: https://[YourWebsite]
 
 
 <!--

@@ -6,22 +6,6 @@
 # Hi there, I'm Erald Torra 👋
 
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Topic or Language You're Learning]
-- 🤔 I’m looking for help with [Topic or Project You Need Help With]
-- 💬 Ask me about [Topics You're Comfortable Discussing]
-- 📫 How to reach me: [Your Email or Other Contact Method]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Fun Fact About You]
-
-## Skills and Experience
-* ⚛️ [Language or Framework You Have Experience With]
-* 📱 [Another Language or Framework You Have Experience With]
-* 💻 [And Another Language or Framework You Have Experience With]
-
-## Examples of Work
-[Include images or links of your work]
-
 ## 📬 Get in Touch
 - GitHub: [github link][github]
 - LinkedIn: [linkedin link][linkedin]
